@@ -25,11 +25,11 @@ namespace CrossPlatformTest
             app = Settings.AppContext;
         }
 
-        [Test]
-        public void Applaunches()
-        {
-            app.Screenshot("First screen");
-        }
+        //[Test]
+        //public void Applaunches()
+        //{
+        //    app.Screenshot("First screen");
+        //}
 
         //New test
         [Test]
